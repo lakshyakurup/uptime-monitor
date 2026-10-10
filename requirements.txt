@@ -1,1 +1,2 @@
-# No external dependencies required for this toolkit.
+# Install the local package.
+-e .
